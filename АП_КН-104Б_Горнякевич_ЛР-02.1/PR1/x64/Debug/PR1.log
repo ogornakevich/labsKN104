@@ -1,5 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (PR1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  labs2.1 - pch.cpp
-  labs2.1.cpp
-C:\Users\clasi\OneDrive\Робочий стіл\ап кн\АП_КН-104Б_Горнякевич_ЛР-02.1\PR1\labs2.1.cpp(15,20): warning C4101: 'PI': unreferenced local variable
-  PR1.vcxproj -> C:\Users\clasi\OneDrive\Робочий стіл\ап кн\АП_КН-104Б_Горнякевич_ЛР-02.1\x64\Debug\labs2.1.exe
